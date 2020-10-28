@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="915b3c89-7e00-42e8-8666-e7edc8c3c4be" name="Default Changelist" comment="" />
+    <list default="true" id="915b3c89-7e00-42e8-8666-e7edc8c3c4be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/InterfaceBankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreditAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreditAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBankArrayListDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBankArrayListDelete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBankList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBankList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jWVWX3SVgcLAL60MLOaDyhCKGO" />
@@ -23,9 +43,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.testBank">
     <configuration name="JavaBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaBank" />
+      <module name="JavaBank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testBank" />
       <module name="JavaBank" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -44,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testBank" />
         <item itemvalue="Application.JavaBank" />
       </list>
     </recent_temporary>
@@ -56,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603919867061</updated>
-      <workItem from="1603919868134" duration="704000" />
+      <workItem from="1603919868134" duration="1777000" />
     </task>
     <servers />
   </component>
@@ -73,26 +101,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603920546723" />
-    <state x="647" y="310" key="Github.ShareDialog" timestamp="1603920299241">
+    <state x="647" y="310" key="Github.ShareDialog" timestamp="1603920587474">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1603920299241" />
-    <state width="1493" height="161" key="GridCell.Tab.0.bottom" timestamp="1603920004744">
+    <state x="647" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1603920587474" />
+    <state x="512" y="114" key="Github.UntrackedFilesDialog" timestamp="1603920593354">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="161" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603920004744" />
-    <state width="1493" height="161" key="GridCell.Tab.0.center" timestamp="1603920004743">
+    <state x="512" y="114" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603920593354" />
+    <state width="1493" height="161" key="GridCell.Tab.0.bottom" timestamp="1603921544773">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="161" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603920004743" />
-    <state width="1493" height="161" key="GridCell.Tab.0.left" timestamp="1603920004743">
+    <state width="1493" height="161" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603921544773" />
+    <state width="1493" height="161" key="GridCell.Tab.0.center" timestamp="1603921544773">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="161" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603920004743" />
-    <state width="1493" height="161" key="GridCell.Tab.0.right" timestamp="1603920004744">
+    <state width="1493" height="161" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603921544773" />
+    <state width="1493" height="161" key="GridCell.Tab.0.left" timestamp="1603921544773">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="161" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603920004744" />
+    <state width="1493" height="161" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603921544773" />
+    <state width="1493" height="161" key="GridCell.Tab.0.right" timestamp="1603921544773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="161" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603921544773" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1603920464605">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
